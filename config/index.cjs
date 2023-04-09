@@ -15,7 +15,7 @@ const USER_CONFIG = {
 
   PROVINCE: '广东',
   CITY: '东莞',
-  IS_SHOW_COLOR: FALSE,
+  IS_SHOW_COLOR: false,
   USERS: [
     {
       // 想要发送的人的名字
